@@ -60,7 +60,7 @@
 //                    | GUI |     | SPC |      | ENT |     | ALT |
                         bindings = <
    &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4       &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR &kp RPAR &kp BSPC
-   &to 4     &trans        &trans       &trans       &trans       &trans             &kp MINUS &kp EQUAL &kp LBKT        &kp RBKT &kp PIPE &kp GRAVE
+   &tog 4     &trans        &trans       &trans       &trans       &trans             &kp MINUS &kp EQUAL &kp LBKT        &kp RBKT &kp PIPE &kp GRAVE
    &kp LSHFT &trans        &trans       &trans       &trans       &trans             &trans    &trans    &trans          &trans   &kp BSLH &kp TILDE
                                                &kp LGUI &trans &kp SPACE             &kp RET &trans &trans
                         >;
