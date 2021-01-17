@@ -64,6 +64,6 @@
    &kp LSHFT &trans    &trans  &trans    &trans    &trans      &trans    &trans    &trans          &trans   &kp BSLH &kp TILDE
                                    &kp LGUI &trans &kp SPACE   &kp RET &trans &kp RALT
                         >;
-                }
+                };
         };
 };
